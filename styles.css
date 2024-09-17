@@ -35,7 +35,7 @@ body{
     display: block;
 }
 
-.botao_secundario{
+.container_secundario{
     background-color: transparent;
     border: solid 2px var(--branco-principal);
 }
