@@ -100,4 +100,14 @@ body{
     text-align: center;
 }
 
+.dispositivos__título{
+    font-size: 48px;
+    color: var(--branco-principal);
+}
+
+.lista__item{
+    font-size: 32px;
+    color: var(--branco-principal);
+}
+
 
